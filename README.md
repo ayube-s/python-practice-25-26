@@ -2,7 +2,7 @@
 
 # Python Practice 2025–2026 🐍
 
-This repository documents my journey to mastering Python and software automation from intermediate to professional level (2025–2026).  
+This repository documents my journey to mastering Python and software automation from beginner to professional level (2025–2026).  
 Each project focuses on solving real-world IT or automation problems using Python.
 
 ## 🧩 Structure
